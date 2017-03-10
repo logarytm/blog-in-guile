@@ -1,2 +1,0 @@
-#!/bin/sh
-${GUILE-guile} -s run.scm
